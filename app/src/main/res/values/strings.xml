@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SD Sound Recorder</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="stop_playing_record">Stop Playing Record</string>
+    <string name="todo">TODO</string>
+    <string name="sd_sound_recorder">SD Sound Recorder</string>
+    <string name="todo1">TODO</string>
+    <string name="this_app_is_developed_by_shubrato_dev_baishnab_version_1_0_email_shuvodev1994_gmail_com">This App is developed by Shubrato Dev Baishnab Version: 1.0,     Email: shuvodev1994@gmail.com</string>
+    <string name="about">ABOUT</string>
+
+</resources>
